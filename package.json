@@ -1,0 +1,33 @@
+{
+  "name": "designmodel",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@antv/g": "^5.5.0",
+    "@antv/g-canvas": "^1.5.0",
+    "@antv/g-canvaskit": "^0.4.0",
+    "@antv/g-plugin-css-select": "^1.5.1",
+    "@antv/g-svg": "^1.5.0",
+    "@antv/g-webgl": "^1.5.0",
+    "@antv/g-webgpu": "^1.5.0",
+    "@antv/x6-vue-shape": "^1.4.0",
+    "hammerjs": "^2.0.8",
+    "interactjs": "^1.10.14",
+    "lil-gui": "^0.16.1",
+    "pnpm": "^7.4.1",
+    "stats.js": "^0.17.0",
+    "three": "^0.142.0",
+    "three-orbit-controls": "^82.1.0",
+    "two.js": "^0.8.10",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
